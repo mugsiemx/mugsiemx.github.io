@@ -1,7 +1,8 @@
 // The Belly Button Biodiversity Dashboard Challenge (Module 14)
 
 // Get the api endpoint
-const url = "https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json";
+// const url = "https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json";
+const url = "/data/samples.json"
 // initialize the data for entry into the website before selection
 var navelId = 940;
 // variable defined for processing
